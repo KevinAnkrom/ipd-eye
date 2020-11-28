@@ -38,7 +38,8 @@
   {
     "name": "Zaafiel",
     "allyCode": "267634212",
-    "discordId": ""
+    "discordId": "",
+    "userIcon": ":pirate_flag:"
   },
   {
     "name": "Dan Vessy",
@@ -48,7 +49,8 @@
   {
     "name": "Yu2",
     "allyCode": "644693988",
-    "discordId": ""
+    "discordId": "",
+    "userIcon": ":pirate_flag:"
   },
   {
     "name": "AU Scareface",
@@ -89,6 +91,7 @@
     "name": "Bartuc",
     "allyCode": "666733999",
     "discordId": ""
+    "userIcon": ":pirate_flag:"
   },
   {
     "name": "Norikey",
@@ -121,11 +124,6 @@
     "discordId": "290838434053095425"
   },
   {
-    "name": "Bartuc",
-    "allyCode": "666733999",
-    "discordId": ""
-  },
-  {
     "name": "Derfrian",
     "allyCode": "126619498",
     "discordId": "280740452330766337"
@@ -149,6 +147,7 @@
     "name": "DN Withers",
     "allyCode": "243339422",
     "discordId": ""
+    "userIcon": ":pirate_flag:"
   },
   {
     "name": "ID Mtn Sam",
@@ -174,10 +173,12 @@
     "name": "Jehosiphat",
     "allyCode": "819644886",
     "discordId": ""
+    "userIcon": ":pirate_flag:"
   },  
   {
     "name": "Loog",
     "allyCode": "555432578",
     "discordId": ""
+    "userIcon": ":pirate_flag:"
   }
 ]
