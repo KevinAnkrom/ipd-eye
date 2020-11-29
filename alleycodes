@@ -37,24 +37,6 @@
     "discordId": "377942899691880448"
   },
   {
-    "name": "Zaafiel",
-    "allyCode": "267634212",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-  {
-    "name": "Dan Vessy",
-    "allyCode": "835949696",
-    "discordId": ""
-  },
-  {
-    "name": "Yu2",
-    "allyCode": "644693988",
-    "discordId": "",
-    "tagIdOnClimb": "297534271667830785",
-    "userIcon": ":pirate_flag:"
-  },
-  {
     "name": "AU Scareface",
     "allyCode": "615631871",
     "discordId": "190112672543408128"
@@ -88,12 +70,6 @@
     "name": "Alex K",
     "allyCode": "856128111",
     "discordId": "363346338274082817"
-  },
-  {
-    "name": "Bartuc",
-    "allyCode": "666733999",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
   },
   {
     "name": "Norikey",
@@ -146,12 +122,6 @@
     "discordId": "408462467744792576"
   },
   {
-    "name": "DN Withers",
-    "allyCode": "243339422",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-  {
     "name": "ID Mtn Sam",
     "allyCode": "142329813",
     "discordId": "171959307493965824"
@@ -160,6 +130,12 @@
     "name": "Sabertooth Samurai",
     "allyCode": "378246788",
     "discordId": "267372226813231105"
+  },
+    {
+    "name": "DN Withers",
+    "allyCode": "243339422",
+    "discordId": "",
+    "userIcon": ":pirate_flag:"
   },
   {
     "name": "Skop",
@@ -177,7 +153,32 @@
     "allyCode": "819644886",
     "discordId": "",
     "userIcon": ":pirate_flag:"
-  },  
+  },
+  {
+    "name": "Zaafiel",
+    "allyCode": "267634212",
+    "discordId": "",
+    "userIcon": ":pirate_flag:"
+  },
+    {
+    "name": "Dan Vessy",
+    "allyCode": "835949696",
+    "userIcon": ":pirate_flag:",
+    "discordId": ""
+  },
+   {
+    "name": "Yu2",
+    "allyCode": "644693988",
+    "discordId": "",
+    "tagIdOnClimb": "297534271667830785",
+    "userIcon": ":pirate_flag:"
+  },
+    {
+    "name": "Bartuc",
+    "allyCode": "666733999",
+    "discordId": "",
+    "userIcon": ":pirate_flag:"
+  },
   {
     "name": "Loog",
     "allyCode": "555432578",
