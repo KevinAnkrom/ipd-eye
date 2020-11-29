@@ -90,7 +90,7 @@
   {
     "name": "Bartuc",
     "allyCode": "666733999",
-    "discordId": ""
+    "discordId": "",
     "userIcon": ":pirate_flag:"
   },
   {
@@ -146,7 +146,7 @@
   {
     "name": "DN Withers",
     "allyCode": "243339422",
-    "discordId": ""
+    "discordId": "",
     "userIcon": ":pirate_flag:"
   },
   {
@@ -172,13 +172,13 @@
   {
     "name": "Jehosiphat",
     "allyCode": "819644886",
-    "discordId": ""
+    "discordId": "",
     "userIcon": ":pirate_flag:"
   },  
   {
     "name": "Loog",
     "allyCode": "555432578",
-    "discordId": ""
+    "discordId": "",
     "userIcon": ":pirate_flag:"
   }
 ]
