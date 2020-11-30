@@ -131,12 +131,6 @@
     "allyCode": "378246788",
     "discordId": "267372226813231105"
   },
-    {
-    "name": "DN Withers",
-    "allyCode": "243339422",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
   {
     "name": "Skop",
     "allyCode": "746929386",
@@ -145,6 +139,12 @@
   {
     "name": "Sanka Bala",
     "allyCode": "932419587",
+    "discordId": "",
+    "userIcon": ":pirate_flag:"
+  },
+  {
+    "name": "DN Withers",
+    "allyCode": "243339422",
     "discordId": "",
     "userIcon": ":pirate_flag:"
   },
