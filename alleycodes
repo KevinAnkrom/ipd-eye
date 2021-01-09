@@ -46,6 +46,11 @@
     "discordId": "488458012889972758"
   },
   {
+    "name": "Loog",
+    "allyCode": "555432578",
+    "discordId": "501093419209457674"
+  },
+  {
     "name": "UA Sany",
     "allyCode": "166375977",
     "discordId": "388015699026771979"
@@ -195,10 +200,10 @@
     "allyCode": "895787134",
     "discordId": "",
     "userIcon": ":pirate_flag:"
-  },
-  {
-    "name": "Loog",
-    "allyCode": "555432578",
+  }, 
+     {
+    "name": "Quinlan",
+    "allyCode": "744718964",
     "discordId": "",
     "userIcon": ":pirate_flag:"
   }
