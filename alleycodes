@@ -26,6 +26,11 @@
     "discordId": "338749316287954946"
   },
   {
+    "name": "MWally",
+    "allyCode": "624644955",
+    "discordId": "229046990858616834"
+  },
+  {
     "name": "Knepper",
     "allyCode": "169238135",
     "discordId": "339891651239739396"
@@ -219,12 +224,6 @@
   {
     "name": "Obi Matzi",
     "allyCode": "444157123",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-   {
-    "name": "MWally",
-    "allyCode": "624644955",
     "discordId": "",
     "userIcon": ":pirate_flag:"
   },
