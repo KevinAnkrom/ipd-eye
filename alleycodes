@@ -52,44 +52,14 @@
     "discordId": "190112672543408128"
   },
   {
-    "name": "Bane 533",
-    "allyCode": "861877851",
-    "discordId": "488458012889972758"
-  },
-  {
-    "name": "Loog",
-    "allyCode": "555432578",
-    "discordId": "501093419209457674"
-  },
-  {
     "name": "UA Sany",
     "allyCode": "166375977",
     "discordId": "388015699026771979"
   },
   {
-    "name": "JVOM KF",
-    "allyCode": "492225537",
-    "discordId": "416062043729297431"
-  },
-  {
-    "name": "Terzo Fratello",
-    "allyCode": "732654285",
-    "discordId": "314425414460375040"
-  },
-  {
     "name": "BIGBOSS",
     "allyCode": "492197976",
     "discordId": "410777686282076162"
-  },
-  {
-    "name": "Alex K",
-    "allyCode": "856128111",
-    "discordId": "363346338274082817"
-  },
-  {
-    "name": "Norikey",
-    "allyCode": "595343763",
-    "discordId": "353148686831714324"
   },
   {
     "name": "Jayden Lightbringer",
@@ -138,16 +108,6 @@
     "discordId": "408462467744792576"
   },
   {
-    "name": "ID Mtn Sam",
-    "allyCode": "142329813",
-    "discordId": "171959307493965824"
-  },
-  {
-    "name": "Sabertooth Samurai",
-    "allyCode": "378246788",
-    "discordId": "267372226813231105"
-  },
-  {
     "name": "Skop",
     "allyCode": "746929386",
     "discordId": "332210641345708032"
@@ -167,24 +127,6 @@
     "allyCode": "163536378",
     "discordId": "422529534450073614"
   },
-  {
-    "name": "DN Withers",
-    "allyCode": "243339422",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-  {
-    "name": "Jehosiphat",
-    "allyCode": "819644886",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-  {
-    "name": "Zaafiel",
-    "allyCode": "267634212",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
     {
     "name": "Dan Vessy",
     "allyCode": "835949696",
@@ -194,42 +136,6 @@
    {
     "name": "Yu2",
     "allyCode": "644693988",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-    {
-    "name": "Bartuc",
-    "allyCode": "666733999",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-      {
-    "name": "Sol Starlighter",
-    "allyCode": "451397633",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-        {
-    "name": "Nymphee",
-    "allyCode": "539751468",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-        {
-    "name": "Cuy",
-    "allyCode": "895787134",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  }, 
-  {
-    "name": "Alfredo",
-    "allyCode": "373417788",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-  {
-    "name": "Obi Matzi",
-    "allyCode": "444157123",
     "discordId": "",
     "userIcon": ":pirate_flag:"
   },
@@ -251,28 +157,4 @@
     "discordId": "",
     "userIcon": ":pirate_flag:"
   },
-  {
-    "name": "Mini Forrest",
-    "allyCode": "163536378",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-    {
-    "name": "Nighteyezz",
-    "allyCode": "953744563",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-   {
-    "name": "Arclight",
-    "allyCode": "288736567",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  },
-     {
-    "name": "Quinlan",
-    "allyCode": "744718964",
-    "discordId": "",
-    "userIcon": ":pirate_flag:"
-  }
 ]
